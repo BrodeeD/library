@@ -1,4 +1,4 @@
-# Library https://brodeed.github.io/library/
+# Library
 
 ## <a href="https://brodeed.github.io/dashboard/">Live Preview</a><br>
 
